@@ -1,0 +1,4 @@
+/home/wudu/work/linux-84/net-gobang/rest_rpc/game/client/bulid/CMakeFiles/rebuild_cache.dir
+/home/wudu/work/linux-84/net-gobang/rest_rpc/game/client/bulid/CMakeFiles/edit_cache.dir
+/home/wudu/work/linux-84/net-gobang/rest_rpc/game/client/bulid/CMakeFiles/basic_client.dir
+/home/wudu/work/linux-84/net-gobang/rest_rpc/game/client/bulid/CMakeFiles/basic_server.dir
